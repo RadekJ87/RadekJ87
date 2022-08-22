@@ -2,12 +2,15 @@
 
 
 Since very early age I am interested of computers and all related technologies. 
-Programming is still something new to me. 
+
+Programming is still something new to me, but it really got me in.
+
 I started few years back at college, where I've gone through C++ and Java, 
 but I seriously get down to it over 1 year ago, when during the HTML&CSS course I've been introduced to JavaScript, that was it. 
 
-I am mostly focusing on back-end side od JS, so Node.js and related frameworks like Express.js and Nest.js.
-I know the basics of React, it is the next framework I am going to focus it to balance my skills.
+For that period I mainly worked on learining the back-end of JS, so Node.js and related frameworks like Express.js and Nest.js.
+I know the basics of React, and it is the next step on my roadmap to to learn this framework best and balance my skills.
+
 
 
 <p align="left">
