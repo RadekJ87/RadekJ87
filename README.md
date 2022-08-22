@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Radosław Janiszewski 👋
 
-<!--
-**RadekJ87/RadekJ87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Since very early age I am interested of computers and all related technlogies. 
+Programming is still something new to me. I started few years back at college, where I have gone through C++ and Java, 
+but I seriously focused on it over 1 year ago when during the HTML&CSS course I've been introduced to JavaScript, that was it. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am mostly focusing on back-end side od JS, so Node.js and related frameworks like Express.js and Nest.js.
+I know the basics of React, it is the next framework I am going to focus it to balance my skills.
+
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RadekJ87&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RadekJ87&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
