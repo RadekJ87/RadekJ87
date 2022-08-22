@@ -1,9 +1,9 @@
 ### Hi there, I'm Radosław Janiszewski 👋
 
 
-Since very early age I am interested of computers and all related technlogies. 
-Programming is still something new to me. I started few years back at college, where I have gone through C++ and Java, 
-but I seriously focused on it over 1 year ago when during the HTML&CSS course I've been introduced to JavaScript, that was it. 
+Since very early age I am interested of computers and all related technologies. 
+Programming is still something new to me. I started few years back at college, where I've gone through C++ and Java, 
+but I seriously get down to it over 1 year ago, when during the HTML&CSS course I've been introduced to JavaScript, that was it. 
 
 I am mostly focusing on back-end side od JS, so Node.js and related frameworks like Express.js and Nest.js.
 I know the basics of React, it is the next framework I am going to focus it to balance my skills.
