@@ -1,15 +1,15 @@
 ### Hi there, I'm Radosław Janiszewski 👋
 
 
-Since very early age I am interested of computers and all related technologies. 
+Since very early years I'm interested of computers and all related technologies. 
 
 Programming is still something new to me, but it really got me in.
 
 I started few years back at college, where I've gone through C++ and Java, 
-but I seriously got down to it over 1 year ago, when during the HTML&CSS course I've been introduced to JavaScript, that was it. 
+but I seriously got down to it over 1.5 year ago, when during the HTML&CSS course I've been introduced to JavaScript, that was it. 
 
-For that period I mainly worked on learning the JavaScript Backend by participating for instance in MegaK course. I been trained there in Node.js and its frameworks like Express.js and NestJS.
-Currently I am working on my React skills, where I am seeing the biggest lacks, therefore I joined the 'Kurs Reacta' by Michał Taszycki.
+For that period I've been mainly learning the JavaScript backend frameworks by participating for instance in MegaK course. <br>The 14 months course was focused to prepare student to 'Full Stack Developer' role by providing complexive knowledge of Node.js and its frameworks like Express.js and Nest.js.<br>
+Currently I'm sharpening my React.js skills with the 'Kurs Reacta' by Michał Taszycki.
 
 
 
@@ -22,8 +22,8 @@ Currently I am working on my React skills, where I am seeing the biggest lacks, 
 
 ##### 🌐 Web Dev
 <div align="left">
-<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML5" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS3" /></code>
 </div>
 
 
@@ -41,6 +41,14 @@ Currently I am working on my React skills, where I am seeing the biggest lacks, 
 </div>
 
 
+#### 💾 Database
+<div align="left">
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"
+	/></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" 
+	/></code>
+</div>
+
 ##### 🧰 Version Control
 <div align="left">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
@@ -48,27 +56,15 @@ Currently I am working on my React skills, where I am seeing the biggest lacks, 
 </div>
 
 
-
-##### 🔨 Tools
+##### 🔨 Other
 <div align="left">
+	<code><img height="50" src="https://ih1.redbubble.net/image.404020083.1876/pp,504x498-pad,600x600,f8f8f8.u7.jpg" alt="Jest" title="Jest" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182617786-8de63e1a-5727-4e13-b300-648f2843578c.png" alt="WebStorm" title="WebStorm" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="VisualStudio" title="VisualStudio" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png" alt="Postman" title="Postman" /></code>
-</div>
-
-
-##### 🚍 Communication
-<div align="left">
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="REST" title="REST" /></code>
-</div>
-
-
-#### 💾 Database
-<div align="left">
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"
-	/></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" 
-	/></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="REST API" title="REST API" /></code>
+	<code><img height="50" src="https://styled-components.com/logo.png" alt="Styled Components" title="Styled Components" /></code>
+	<code><img height="50" src="https://mui.com/static/logo.png" alt="Material UI" title="Material UI" /></code>
 </div>
 
 
