@@ -10,6 +10,8 @@ but I seriously got down to it over 1.5 year ago, when during the HTML&CSS cours
 
 For that period I've been mainly learning the JavaScript backend frameworks by participating for instance in MegaK course. <br>The 14 months course was focused to prepare student to 'Full Stack Developer' role by providing complexive knowledge of Node.js and its frameworks like Express.js and Nest.js.<br>
 Currently I'm sharpening my React.js skills with the 'Kurs Reacta' by Michał Taszycki.
+Meanwhile I'm also working on newer version of one of my apps - Pricebook. The main changes is modern FE in MUI5, JWT and MongoDB.
+Check pinned repository Pricebook Version_2.0.0 for more updates about progress.
 
 
 
