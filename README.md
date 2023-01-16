@@ -16,8 +16,8 @@ Check pinned repository PriceBook_v.2.0 for more updates about progress.
 
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RadekJ87&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RadekJ87&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RadekJ87&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=RadekJ87&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
 
 #### Languages and Tools
