@@ -1,18 +1,24 @@
 ### Hi there, I'm Radosław Janiszewski 👋
 
 
-Since very early years I'm interested of computers and all related technologies. 
+Since very early years I'm interested of computers and all related technologies.
 
 Programming is still something new to me, but it really got me in.
 
-I started few years back at college, where I've gone through C++ and Java, 
-but I seriously got down to it over 1.5 year ago, when during the HTML&CSS course I've been introduced to JavaScript, that was it. 
+I've started few years back at college, where I've gone through C++ and Java, but I seriously got down to it almost 2 years ago,<br>
+when during the HTML&CSS course I've been introduced to JavaScript, that was it.<br>
 
-For that period I've been mainly learning the JavaScript backend frameworks by participating for instance in MegaK course. <br>The 14 months course was focused to prepare student to 'Full Stack Developer' role by providing complexive knowledge of Node.js and its frameworks like Express.js and Nest.js.<br>
-Currently I'm sharpening my React.js skills with the 'Kurs Reacta' by Michał Taszycki.<br>
-Meanwhile I'm also working on newer version of one of my apps - Pricebook. <br>The main changes is modern FE in MUI5, JWT and MongoDB.<br>
-Check pinned repository PriceBook_v.2.0 for more updates about progress.
+For first over 1.5 years I've mainly learned the JavaScript's backend by participating for instance in MegaK course.<br>
+The 14 months course was focused to prepare student to 'Full Stack Developer' role by providing complexive knowledge of Node.js<br>
+and its frameworks like Express.js and Nest.js.<br>
+After completing MegaK I have decided to sharpened my React's skills, so I've taken a part in the 'Kurs Reacta' by Michał Taszycki.<br>
 
+Except the mentioned courses I've been striving on progress by taking other activities like Udemy courses, <be>  
+interesting YouTube channels etc. to implement gained knowledgle into life and get better every day.<br>
+
+What I love most is doing fullstack apps.<br> Therefore since some time I've beena working on newer version of one of my apps - Pricebook.<br>
+The main changes are like: modern FE in MUI5, JWT, Firebase and MongoDB. <br>
+Check out pinned repository PriceBook_v.2.0 for more updates about progress.<br>
 
 
 <p align="left">
