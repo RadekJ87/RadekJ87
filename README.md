@@ -1,7 +1,7 @@
 ### Hi there, I'm Radosław Janiszewski 👋
 
 
-Since very early years I'm interested of computers and all related technologies.
+Since very early years I'm interested in computers and all related technologies.
 
 Programming is still something new to me, but it really got me in.
 
