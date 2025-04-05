@@ -5,18 +5,18 @@ Since very early years I'm interested in computers and all related technologies.
 
 Programming is still something new to me, but it really got me in.
 
-I've started few years back at college, where I've gone through C++ and Java, but I seriously got down to it almost 2 years ago,<br>
+I started few years back at college, where I've gone through C++ and Java, but I seriously got down to it in 2019<br>
 when during the HTML&CSS course I've been introduced to JavaScript, that was it.<br>
 
-For first over 1.5 years I've mainly learned the JavaScript's backend by participating for instance in MegaK course.<br>
+For first over 1.5 years I mainly learned the JavaScript's backend by participating for instance in MegaK course.<br>
 The 14 months course was focused to prepare student to 'Full Stack Developer' role by providing complexive knowledge of Node.js<br>
 and its frameworks like Express.js and Nest.js.<br>
-After completing MegaK I have decided to sharpened my React's skills, so I've taken a part in the 'Kurs Reacta' by Michał Taszycki.<br>
+After completing MegaK I have decided to sharpened my React's skills, so I took a part in the 'Kurs Reacta' by Michał Taszycki.<br>
 
 Except the mentioned courses I've been striving on progress by taking other activities like Udemy courses, <be>  
 interesting YouTube channels etc. to implement gained knowledgle into life and get better every day.<br>
 
-What I love most is doing fullstack apps.<br> Therefore since some time I've beena working on newer version of one of my apps - Pricebook.<br>
+What I love most is doing fullstack apps.<br> Therefore since some time I've been working on newer version of one of my apps - Pricebook.<br>
 The main changes are like: modern FE in MUI5, JWT, Firebase and MongoDB. <br>
 Check out pinned repository PriceBook_v.2.0 for more updates about progress.<br>
 
